@@ -19,8 +19,8 @@ import { HeroesModule } from './heroes/heroes.module';
   imports: [
     BrowserModule,
     FormsModule,
-    AppRoutingModule,
-    HeroesModule
+    HeroesModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
